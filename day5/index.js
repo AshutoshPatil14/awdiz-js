@@ -51,3 +51,5 @@ console.log(c.slice(0, 5));
 
 c.toString();
 console.log(c.toString());
+
+console.log(a[Math.round((a.length-1)/2)])
