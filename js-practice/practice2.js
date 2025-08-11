@@ -56,6 +56,6 @@
 
 // Print all prime numbers between 10 and 50.
 
-for(i=10; i<=50; i++){
-    if()
-}
+// for(i=10; i<=50; i++){
+//     if()
+// }
