@@ -57,3 +57,11 @@
 // Anagram
 
 // let res = str.toLowerCase().split().sort().join()
+
+
+function charFrequency(str) {
+  let freq = {};
+  for (let ch of str) freq[ch] = (freq[ch] || 0) + 1;
+  return freq;
+}
+console.log(charFrequency("banana")); // { b:1, a:3, n:2 }
