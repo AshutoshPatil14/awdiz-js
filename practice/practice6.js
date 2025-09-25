@@ -16,8 +16,8 @@ function rotate90(arr) {
       arr[j][i] = temp;
     }
   }
-  console.log(arr);
-  // Reverse each row
+  // console.log(arr);
+
   for (let i = 0; i < arr.length; i++) {
     arr[i].reverse();
   }
@@ -25,4 +25,4 @@ function rotate90(arr) {
   return arr;
 }
 
-console.log(rotate90(arr)); // Call the function and log the result
+console.log(rotate90(arr)); 
