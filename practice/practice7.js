@@ -41,7 +41,6 @@
 
 // console.log(findSecondLargest(array));
 
-
 // Problem 3: Reverse an Array (In-Place)
 
 // Input:
@@ -49,7 +48,6 @@
 
 // Output:
 // [5, 4, 3, 2, 1]
-
 
 // const array = [1, 2, 3, 4, 5];
 
