@@ -13,7 +13,7 @@
 //   }
 // }
 // console.log(position);
-// console.log(max);
+// console.log(max); 
 
 // Problem 2: Second Largest Element
 
